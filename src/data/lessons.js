@@ -88,7 +88,7 @@ const lessons = [
         video: {
           duration: 980,
           thumbnail: "https://cc360-pages.s3.us-west-2.amazonaws.com/0417fffd-fce1-40ce-bafd-fac37ab6ee87.png",
-          url: "https://assets.tailwindcss.com/templates/compass/sophia-reid-1080p.mp4",
+          url: "/Users/canyonsmith/Desktop/tailwind-plus-compass/compass-js/lambda_results/nova_gpt-4o-mini-tts_1x_2025-07-13T23_16_09-547Z.mp4",
         },
         materials: [
           {
@@ -112,7 +112,7 @@ const lessons = [
         video: {
           duration: 1400,
           thumbnail: "/images/thumbnails/lesson-2-1.png",
-          url: "https://assets.tailwindcss.com/templates/compass/sophia-reid-1080p.mp4",
+          url: "nova_gpt-4o-mini-tts_1x_2025-07-13T23_16_09-547Z.wav",
         },
         materials: [
           {
